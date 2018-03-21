@@ -1,0 +1,4 @@
+[IN RING_BUFFER_SHOVE]
+while loop disc. @ index == tail
+
+
